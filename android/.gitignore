@@ -1,5 +1,6 @@
 .env
 gradle-wrapper.jar
+/build
 /.gradle
 /captures/
 /gradlew
